@@ -1,5 +1,5 @@
 ## Installation
 ```
-composer require qianlei/md5hasher
+composer require iralance/md5hasher
 ```
 ## Usaging
